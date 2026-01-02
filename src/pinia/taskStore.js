@@ -15,6 +15,73 @@ export const useTaskStore = defineStore("task", {
         status: true,
         createTime: new Date().toLocaleString(),
       },
+      {
+        id: 2,
+        title: "做任务管理项目",
+        status: true,
+        createTime: new Date().toLocaleString(),
+      },
+      {
+        id: 2,
+        title: "做任务管理项目",
+        status: true,
+        createTime: new Date().toLocaleString(),
+      },
+      {
+        id: 2,
+        title: "做任务管理项目",
+        status: true,
+        createTime: new Date().toLocaleString(),
+      },
+      {
+        id: 2,
+        title: "做任务管理项目",
+        status: true,
+        createTime: new Date().toLocaleString(),
+      },
+      {
+        id: 2,
+        title: "做任务管理项目",
+        status: true,
+        createTime: new Date().toLocaleString(),
+      },
+      {
+        id: 2,
+        title: "做任务管理项目",
+        status: true,
+        createTime: new Date().toLocaleString(),
+      },
+      {
+        id: 2,
+        title: "做任务管理项目",
+        status: true,
+        createTime: new Date().toLocaleString(),
+      },
+      {
+        id: 2,
+        title: "做任务管理项目",
+        status: true,
+        createTime: new Date().toLocaleString(),
+      },
+      {
+        id: 2,
+        title: "做任务管理项目",
+        status: true,
+        createTime: new Date().toLocaleString(),
+      },
+      {
+        id: 2,
+        title: "做任务管理项目",
+        status: true,
+        createTime: new Date().toLocaleString(),
+      },
+
+      {
+        id: 2,
+        title: "做任务管理项目",
+        status: true,
+        createTime: new Date().toLocaleString(),
+      },
     ],
   }),
   actions: {
